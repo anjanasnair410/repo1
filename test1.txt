@@ -1,0 +1,10 @@
+ Volume in drive C is Acer
+ Volume Serial Number is 96D6-16AD
+
+ Directory of C:\Users\91702\Desktop\newgit
+
+04-12-2020  09:59    <DIR>          .
+04-12-2020  09:59    <DIR>          ..
+04-12-2020  09:59                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  894,583,771,136 bytes free
